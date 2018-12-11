@@ -1,0 +1,45 @@
+•	Fortune Game App is only for users who are Citizens of India, staying in India
+
+•	The users below the age of 18 years will not be eligible to participate
+
+•	User can Play beginner and Expert both Mode
+
+•	No reward will be given for beginner mode
+
+•	User need to Pay the Subscription charges for Expert Mode
+
+•	Expert Mode have 24 Game sessions in a day, each session will run for an Hour (60 Minutes)
+
+•	Users can join any of the Game session at any point of time and can also win the session
+
+•	After Successful subscription of any Game session, user can able to play the remaining session time till session expires
+
+•	If User is subscribing at end of the Game session and if during payment, the current game session will expire/close/end, then he/she will not able to play that session
+
+•	Subscription Money is non-refundable and non-transferable in any circumstances
+
+•	Subscription charges will apply for each Game session and user can only able to play any session if he/she pay for the game session
+
+•	User can play the game session as many time he/she want
+
+•	The Prizes & gifts will be given to the users based on the Highest points that they accumulate by playing any of the session of the game
+
+•	All user’s points will be reset to Zero after each game session
+
+•	Winners will be declared after completion of 60 Minutes of game session and gifts/voucher will be distributed within next 60 minutes after the game session
+
+•	Users will be able to see his points and points of the top 10 leaders on the app in leaderboard
+
+•	The Points for every participation (Last 30 days) will be mentioned on the App
+
+•	The user who would have the highest points on the leader board will be given the first prize rest prizes is mentioned on the app if any
+
+•	Top winner/s will get Gift Voucher on his/her App Notification bar
+
+•	In case of a tie, winner will be declared on basis of game play time. Highest Points gainer in less time will win the game session
+
+•	Taxes part to be borne by the users if applicable
+
+•	Final point’s decision will be taken by ZIGAMES Infotech Pvt. Ltd. taking under all the conditions
+
+•	Employees of ZIGAMES Infotech Pvt. Ltd. would not be a part of the campaign participation and campaign winnings

@@ -1,0 +1,46 @@
+login_atlas.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+fb_login
+    rotate: false
+    xy: 0, 0
+    size: 690, 138
+    orig: 0, 0
+    offset: 0, 0
+    index: -1
+login
+    rotate: false
+    xy: 0, 138
+    size: 690, 138
+    orig: 0, 138
+    offset: 0, 0
+    index: -1
+play_as_guest
+    rotate: false
+    xy: 0, 276
+    size: 690, 138
+    orig: 0, 138
+    offset: 0, 0
+    index: -1
+green_btn
+    rotate: false
+    xy: 690, 0
+    size: 690, 138
+    orig: 690, 0
+    offset: 0, 0
+    index: -1
+input_bg
+    rotate: false
+    xy: 690, 138
+    size: 690, 138
+    orig: 690, 138
+    offset: 0, 0
+    index: -1
+tagline
+    rotate: false
+    xy: 0, 414
+    size: 1286, 152
+    orig: 0, 414
+    offset: 0, 0
+    index: -1

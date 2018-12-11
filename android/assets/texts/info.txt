@@ -1,0 +1,57 @@
+Start your Journey on to our App by Signing up/Logging in on our platform.
+
+	•	Users can participate in any live game session and earn points by participating in the game
+
+	•	User can Play beginner and Expert both Mode
+
+	•	User need to Pay the Subscription charges for Expert Mode
+
+	•	Expert Mode have 24 Game sessions in a day, each session will run for an Hour (60 Minutes)
+
+	•	Users can join any of the Game session at any point of time and can also win the session
+
+	•	After Successful subscription of any Game session, user can able to play the remaining session time till session expires
+
+	•	User needs to collect maximum Points by tapping onto the bubbles and on basis of highest points winners will be declared
+
+	•	After taping on the demons Bubble user’s points will reset to zero and highest points will update as per the collected points for current game session
+
+	•	User can play multiple times to increase the highest score for the session
+
+	•	If User is subscribing at end of the Game session and if during payment, the current game session will expire/close/end, then he/she will not able to play that session, even after successful payment
+
+	•	Subscription Money is non-refundable and non-transferable in any circumstances
+
+	•	Subscription charges will apply for each Game session and user can only able to play any session if he/she pay for the game session
+
+	•	User can play the game sessions as many time he/she want
+
+	•	The Prizes & gifts will be given to the users based on the Highest points that they accumulate by playing any of the session of the game
+
+	•	All user’s points will be reset to Zero after each game session
+
+	•	Winners will be declared after completion of 60 Minutes of game session and gifts/voucher will be distributed within next 60 minutes after the game session
+
+	•	Winner/s will get Gift Voucher on his/her App Notification bar if any
+
+	•	gift voucher can be redeemed on (https://paytm.com/) website through Add Money to Wallet section
+
+	•	All gift voucher will have 1 year of validity (Dec 21, 2019)
+
+	•	User can contact customer care for any Gift Voucher related query
+
+	•	RBI mandates that upto Rs. 10,000 can be added in a month to a non-upgraded wallet. In case you breach these limits then you can add cash to your wallet in the next calendar month. In order to allow cashback to be added earlier, we urge that you request for a wallet upgrade (available under your profile)
+
+	•	Users will be able to see his points and points of the top 10 leaders on the app in leaderboard
+
+	•	The Points for every participation (Last 30 days) will be mentioned on the App
+
+	•	The user who would have the highest points on the leader board will be given the first prize rest prizes will mentioned on the app if any
+
+	•	In case of a tie, winner will be declared on basis of game play time. Highest Points gainer in less time will win the game session
+
+	•	Taxes part to be borne by the users if applicable
+
+	•	Final point’s decision will be taken by ZIGAMES Infotech Pvt. Ltd. taking under all the conditions
+
+	•	Employees of ZIGAMES Infotech Pvt. Ltd. would not be a part of the campaign participation and campaign winning
